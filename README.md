@@ -92,5 +92,8 @@ r.ProgStart(r"""pick_B""")
 r.MoveJ(p(25.497,-57.3097,200.657,-90,-0.000220614,180),[32.8573,-74.9724,-134.453,-60.575,89.9999,32.8573],[0,1,0])
 
 raise Exception("""Your license does not allow generating programs with more than 50 lines of code. Upgrade your license to unlock this feature.""")
+### STIMULATION:
+![Exp41](https://user-images.githubusercontent.com/119229774/204178944-f7532d7d-4c1f-46d2-a006-d5b0b320ac24.png)
 
 ### RESULTS :  
+An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
